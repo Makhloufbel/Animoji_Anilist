@@ -10,6 +10,13 @@ This project was a request from a friend to allow him to easily add gifs and emo
 
 This extension addes a button to the markdown editor ,when clicked show a dragable popup that let you search for emojis or gifs and by left clcking on it insert it at your curser location in the editor .
 
+### DEMOS
+
+https://user-images.githubusercontent.com/68123929/165566995-e33f94b2-4269-48d9-a27f-ce2c3623df4f.mp4
+
+https://user-images.githubusercontent.com/68123929/165567043-ee3f8bec-c07b-4d58-b948-3a3a76737aab.mp4
+
+
 ## How do I make it work if I want to run it?
 
 1. First method :
