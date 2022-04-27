@@ -1,0 +1,29 @@
+﻿{
+  "name": "Animoji",
+  "version": "0.1.2",
+  "description": "Allows users to add emojis and gifs to posts on Anilist with ease. by Makhlouf",
+  "manifest_version": 3,
+  "action": {
+    "default_title": "Animoji. Click to open Anilist",
+    "default_icon": {
+      "16": "icons/logo-16.png",
+      "32": "icons/logo-32.png"
+    }
+  },
+  "permissions": ["activeTab", "scripting"],
+  "content_scripts": [
+    {
+      "matches": ["https://*.anilist.co/*"],
+      "js": ["jquery.min.js", "jquery-ui.js", "Content.js"]
+    }
+  ],
+
+  "background": {
+    "service_worker": "background.js"
+  },
+  "icons": {
+    "48": "icons/logo-48.png",
+    "96": "icons/logo-96.png"
+  },
+  "host_permissions": ["https://*.anilist.co/*"]
+}

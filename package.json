@@ -1,0 +1,9 @@
+{
+  "name": "animoji",
+  "version": "0.1.2",
+  "description": "Allows users to add emojis and gifs to posts on Anilist with ease. by Makhlouf",
+  "main": "background.js",
+  "scripts": {},
+  "author": "Makhloufbel",
+  "license": "MIT"
+}
