@@ -1,6 +1,6 @@
 # Animoji
 
-Allows users to quickly like posts on Anilist just by one click
+Easy and fast way for users to add emojis and gifs to posts on Anilist.
 
 ## What's the point of this project?
 
@@ -8,7 +8,7 @@ This project was a request from a friend to allow him to easily add gifs and emo
 
 ## What does it do?
 
-This extension addes a button to the markdown editor ,when clicked show a dragable popup that let you search for emojis or gifs and by left clcking on it insert it at your curser location in the editor .
+This extension adds a button to the markdown editor ,when clicked show a draggable popup that let you search for emojis or gifs and by left clicking on it insert it at your cursor location in the editor.
 
 ### DEMOS
 
@@ -31,4 +31,4 @@ https://user-images.githubusercontent.com/68123929/165567043-ee3f8bec-c07b-4d58-
 if you are not on the Anilist site and click the icon it will open a new Anilist tab**
 
 3. Second method :
-   1. Install the userscript version using [Tampermonkey](https://www.tampermonkey.net/) **"Comming soon..."**
+   1. Install the userscript version using [Tampermonkey](https://www.tampermonkey.net/)  from [here](https://github.com/Makhloufbel/Animoji_Anilist/blob/master/Animoji.user.js)
